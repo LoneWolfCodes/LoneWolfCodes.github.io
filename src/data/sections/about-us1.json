@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "smallTitle": "About Us",
+  "title": "Lone Wolf Codes",
+  "content": "The name Lone Wolf Codes was born out of a simple conversation that has now become a philosophy. It goes like this. A friend of mine told me about his work as a freelancer, and how he collaborated with others.  He ends by saying.......... ''We’re just a bunch of lone wolfs trying to catch a buck'' and I liked this. I didn’t quite know it yet. But that’s the day Lone Wolf Codes was born.",
+  "image": "/img/cut-in-a-moment-_T6udLyHwJw-unsplash-min.jpg",
+  "stauts": [
+    { "id": 1, "number": "3", "letter": "Years", "stautsName": "experiance" },
+    { "id": 2, "number": "8", "letter": "Step", "stautsName": "Process" }
+  ]
+}

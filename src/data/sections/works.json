@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "UI/UX Design",
+    "secTex": "Creativity in action",
+    "image": "/img/portfolio/metro/ux-indonesia-qC2n6RQU4Vw-unsplash-min-min.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 2,
+    "title": "8-Step Web Development Plan",
+    "secTex": "Love the process",
+    "image": "/img/portfolio/metro/pexels-thisisengineering-3861943-min-min.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "Web development",
+    "secTex": "Imagination meets reality.",
+    "image": "/img/portfolio/metro/pexels-lukas-574069-min.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 4,
+    "title": "Search Engen Optimization",
+    "secTex": "Let the world see your site.",
+    "image": "/img/portfolio/metro/pexels-pixabay-270637-min.jpg",
+    "slug": "/project-details2/project-details2-dark"
+  }
+ 
+]

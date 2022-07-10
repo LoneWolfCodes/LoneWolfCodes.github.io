@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "Happy clients from all over the world, you could be next!",
+    "value": "300"
+},
+{
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Completed web and app development projects, signed sealed and delivered.",
+    "value": "100"
+},
+{
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "content": "To rank as some of the top 50 software development companies.",
+    "value": "50"
+}
+]

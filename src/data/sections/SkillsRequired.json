@@ -1,0 +1,50 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/nubelson-fernandes-6rrIT4YcqoI-unsplash-min.jpg",
+      "title": "UI / UX DESIGNERS",
+      "sub": "Beginner to mid level"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/hannah-olinger-NXiIVnzBwZ8-unsplash-min.jpg",
+      "title": "CREATIVE WRITERS",
+      "sub": "Beginner"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/brandy-kennedy-0NNB8gvosvo-unsplash-min.jpg",
+      "title": "DIGITAL MARKETERS",
+      "sub": "Intermediate & pro"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/good-faces-lY8ZoxeGUhU-unsplash-min.jpg",
+      "title": "SALES",
+      "sub": "Pro"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "UI / UX DESIGNERS:",
+      "value": "30%"
+    },
+    {
+      "id": 2,
+      "text": "CREATIVE WRITERS",
+      "value": "20%"
+    },
+    {
+      "id": 3,
+      "text": "DIGITAL MARKETERS",
+      "value": "20%"
+    },
+    {
+      "id": 4,
+      "text": "SALES",
+      "value": "30%"
+    }
+  ]
+}

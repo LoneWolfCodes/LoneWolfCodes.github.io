@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-pen",
+        "title": "UI/UX Design" ,
+        "content": "Creativity is simply connecting ideas in ways never done before. For the best in elegant design, trust me and I will deliver creativity like you have never seen before. With attention to detail and unlimited talent from Lone Wolf Codes, I make things magical one design at a time. "
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-monitor",
+        "title": "Web development",
+        "content": "Need a great website at a low cost?  Then stay right here. I got you and that means you get it all in one place. Right here at Lone Wolf Codes, you can get all of that and much, much more! A website is a living thing and it’s ever-evolving. From concept to after the site is built, I’ll be right there."
+    },
+    {
+        "id": 3,
+        "icon": " pe-7s-search",
+        "title": "Search Engen Optimization",
+        "content": "Have you ever wondered how it is that amongst all the billions of sites online, search engines can find exactly what you are looking for? It is called search engine optimization. And your website needs this to be discovered easily. That's where I come in!"
+    },
+
+    {
+        "id": 4,
+        "icon": "pe-7s-check",
+        "title": "8-step web development plan",
+        "content": "Do you have an idea for a website but you can’t quite put it into words? Well, allow me! Using a proven 8-step web development process. I can solve problems you didn’t know have in ways you don’t understand."
+    }
+
+]

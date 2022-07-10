@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to Lone Wolf Codes",
+        "content": "Whether you need a new website, SEO, hosting, UI/UX Design. Then you my friend have come to the right place as you will soon find that my codes are your commands…",
+        "image": "/img/slid/thisisengineering-raeng-sbFmoKBK7jU-unsplash-min.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Founded by a freelancer for freelancers.",
+        "content": "Here at Lone Wolf Codes, I don’t have a big expensive office or equipment. Just a network of hard-working freelancers. This allows me to tap into a wide variety of skills and talent for a fraction of the price.",
+        "image": "/img/slid/pexels-christina-morillo-1181352-min.jpg"
+    },
+    {
+        "id": 3,
+        "title": "So why Lone Wolf Codes?",
+        "content": "When you choose Lone Wolf Codes, you not only choose the best quality at the fastest speed, but you are choosing to support small businesses that are the lifeline of our economy. In return, you get premium web development at the lowest price with no compromise.",
+        "image": "/img/slid/slide-3-min.jpg"
+    }
+]

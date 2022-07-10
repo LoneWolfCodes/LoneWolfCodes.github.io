@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/m-cooper-GSZ8mBkMHw0-unsplash-min.jpg",
+  "image2": "/img/till-daling-BJbEHRhZoLU-unsplash-min.jpg",
+  "exp": {
+    "nmb": 10,
+    "name": "Questions and answers."
+  },
+  "title": { "first": "All you need to know ", "second": "about Lone Wolf Codes." },
+  "content": {
+    "first": "Lone Wolf Codes was founded on the “LONE WOLF PHILOSOPHY” meaning that every freelancer is an individual, or as I like to refer to us Lone Wolfs.",
+    "second": "Whereas most wolves hunt in a pack, lone wolves hunt alone, the same way most people work in an organisation, freelancers work alone. It’s not uncommon that some lone wolfs come across each and work together for a short while as freelancers would, but in the end, we are still our businesses."
+  },
+  "smallTitle": "About Us"
+}
